@@ -15,6 +15,8 @@ My personal configuration.nix files that are designed to be easily editable, eas
 As this is my own personal configuation files, if you want to duplicate this to use within your own system some tweaking will be neccesary
 These configuation.nix files assume you are using an Nvidia GPU, Wayland, Hyprland. It also assumes your timezone is London, your LC_ADDRESS is en_GB.UTF-8. All of these are easily changed to the correct ones for your system without any problems.
 
+This is my first time ever using the Nix language so some things may be a little jank however, I have not encountered any issues in the past month of using these configuration.nix files but I will be making improvements over time <3 
+
 </div>
 
 <br>
